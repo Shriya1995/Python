@@ -1,3 +1,5 @@
+#author shriya
+
 def reverseList(newList):
   size = len(newList) 
   temp = newList[0] 
